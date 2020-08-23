@@ -1,4 +1,4 @@
-// Only these assemblies are allowed in Eplan scrips:
+// Only these assemblies are allowed in Eplan scripts:
 using System;
 using System.Xml;
 using System.Drawing;
